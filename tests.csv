@@ -1,0 +1,377 @@
+﻿Product Code ;The Measured Energy Ventilated Consumption;Declerated EEI;Measured Volume ;Test Function ;For 230V Total Working Cycle Power ;Pulsation ;Function Type;Buffle ;Insulation Desc. Kg/m^3;Thermal Conductivity (W/mK) ;Cooling Fan Poer ;Cooling fan Type ( T=tangetial fan)/R=radial fan);Cooling Fan RPM;Cavity Fan RPM;Number of glass;Cavity Type  (F=Flat/E= Embossed);Ventilation Channel ;Chimney (0: No/1:Yes)
+33703472;0.68;A+;69.4;Cooklight ;2410;Pulsation ;Multifunction;New ECO;33;0.064;12;R;1100;1800;2;F;Ventilation Channel ;1
+33703472;0.68;A+;69.4;Cooklight ;2410;Pulsation ;Multifunction;New ECO;33;0.064;12;R;1100;1800;2;F;Ventilation Channel ;1
+33703472;0.68;A+;69.4;Cooklight ;2410;Pulsation ;Multifunction;New ECO;33;0.064;12;R;1100;1800;2;F;Ventilation Channel ;1
+33703472;0.72;A+;69.4;Cooklight ;2410;Pulsation ;Multifunction;New ECO;33;0.064;12;R;1100;1800;2;F;Ventilation Channel ;1
+33703472;0.72;A+;69.4;Cooklight ;2410;Pulsation ;Multifunction;New ECO;33;0.064;12;R;1100;1800;2;F;Ventilation Channel ;1
+33703472;0.7;A+;69.4;Cooklight ;2410;Pulsation ;Multifunction;New ECO;33;0.064;12;R;1100;1800;2;F;Ventilation Channel ;1
+33703472;0.73;A+;69.4;Cooklight ;2410;Pulsation ;Multifunction;New ECO;33;0.064;12;R;1100;1800;2;F;Ventilation Channel ;1
+33703472;0.72;A+;69.4;Multifunction ;2222;Pulsation ;Multifunction;New ECO;33;0.064;12;R;1100;1800;2;F;Ventilation Channel ;1
+33703472;0.68;A+;69.4;Cooklight ;2410;Pulsation ;Multifunction;New ECO;33;0.064;12;R;1100;1800;2;F;Ventilation Channel ;1
+33703472;0.73;A+;69.4;Cooklight ;2410;Pulsation ;Multifunction;New ECO;33;0.064;12;R;1100;1800;2;F;Ventilation Channel ;1
+33703536;0.7;A;69.5;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;F;Ventilation Channel ;1
+33703536;0.7;A;69.5;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;F;Ventilation Channel ;1
+33703536;0.69;A;69.5;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;F;Ventilation Channel ;1
+33703539;0.64;A+;69.1;Cooklight ;2410;Pulsation ;Multifunction;New ECO;33;0.064;12;R;1100;1600;2;F;Ventilation Channel ;1
+33703539;0.68;A+;69.1;Cooklight ;2410;Pulsation ;Multifunction;New ECO;33;0.064;12;R;1100;1600;2;F;Ventilation Channel ;1
+33703469;0.68;A+;69;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;F;Ventilation Channel ;1
+33703469;0.68;A+;69;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;F;Ventilation Channel ;1
+33703539;0.63;A+;69.1;Multifunction ;2222;Pulsation ;Multifunction;New ECO;33;0.064;12;R;1100;1600;2;F;Ventilation Channel ;1
+33703539;0.7;A+;69.1;Multifunction ;2222;Pulsation ;Multifunction;New ECO;33;0.064;12;R;1100;1600;2;F;Ventilation Channel ;1
+33703673;0.69;A;69.2;Multifunction ;2042;No Pulsation ;Fan Oven;New ECO;33;0.064;13;R;1100;1600;2;F;Ventilation Channel ;1
+33703673;0.68;A;69.2;Multifunction ;2042;No Pulsation ;Fan Oven;New ECO;33;0.064;13;R;1100;1600;2;F;Ventilation Channel ;1
+33703673;0.68;A;69.2;Multifunction ;2042;No Pulsation ;Fan Oven;New ECO;33;0.064;13;R;1100;1600;2;F;Ventilation Channel ;1
+33703600;0.76;A+;69.1;Cooklight ;2410;Pulsation ;Multifunction;New ECO;33;0.064;12;R;1100;1800;2;F;Ventilation Channel ;1
+33703600;0.68;A+;69.1;Cooklight ;2410;Pulsation ;Multifunction;New ECO;33;0.064;12;R;1100;1800;2;F;Ventilation Channel ;1
+33703600;0.75;A+;69.1;Cooklight ;2410;Pulsation ;Multifunction;New ECO;33;0.064;12;R;1100;1800;2;F;Ventilation Channel ;1
+33703600;0.67;A+;69.1;Cooklight ;2410;Pulsation ;Multifunction;New ECO;33;0.064;12;R;1100;1800;2;F;Ventilation Channel ;1
+33703434;0.72;A;64.5;Static Fan;2132;No Pulsation ;Fan Assisted;New ECO;18;0.063;;;;1800;2;E;;1
+33703302;0.68;A+;64.4;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;12;T;1050;1800;2;E;Switch Protection ;0
+33703302;0.68;A+;64.4;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;12;T;1050;1800;2;E;Switch Protection ;0
+33703302;0.67;A+;64.4;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;12;T;1050;1800;2;E;Switch Protection ;0
+33703302;0.67;A+;64.4;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;12;T;1050;1800;2;E;Switch Protection ;0
+33703444;0.63;A+;69.4;Cooklight ;2410;ECO;Multifunction;CHEF;33;0.064;12;R;1100;1600;2;F;Ventilation Channel ;0
+33703474;0.7;A;63.7;Multifunction ;2222;Pulsation ;Fan Oven;New ECO;24;0.064;12;R;1100;1800;2;E;Ventilation Channel ;1
+33703469;0.69;A+;69;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;F;Ventilation Channel ;1
+33703499;0.66;A+;64.5;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;E;Ventilation Channel ;1
+33703499;0.66;A+;64.5;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;E;Ventilation Channel ;1
+33703444;0.7;A+;69.4;Cooklight ;2410;ECO;Multifunction;CHEF;33;0.064;12;R;1100;1600;2;F;Ventilation Channel ;0
+33703444;0.71;A+;69.4;Cooklight ;2410;ECO;Multifunction;CHEF;33;0.064;12;R;1100;1600;2;F;Ventilation Channel ;0
+33703444;0.63;A+;69.4;Cooklight ;2410;ECO;Multifunction;CHEF;33;0.064;12;R;1100;1600;2;F;Ventilation Channel ;0
+33703444;0.62;A+;69.4;Cooklight ;2410;ECO;Multifunction;CHEF;33;0.064;12;R;1100;1600;2;F;Ventilation Channel ;0
+33702156;0.73;A;68.7;Multifunction ;2222;Pulsation ;Multifunction;New ECO;24;0.064;18;T;1200;1800;2;F;Switch Protection ;0
+33702156;0.71;A;68.7;Multifunction ;2222;Pulsation ;Multifunction;New ECO;24;0.064;18;T;1200;1800;2;F;Switch Protection ;0
+33702277;0.6;A+;68.6;Cooklight ;2042;ECO;Multifunction;New ECO;24;0.064;12;T;1050;1800;2;F;Ventilation Channel ;0
+33702277;0.6;A+;68.6;Cooklight ;2042;ECO;Multifunction;New ECO;24;0.064;12;T;1050;1800;2;F;Ventilation Channel ;0
+33703477;0.76;A;64.5;Static Fan;2132;No Pulsation ;Fan Assisted;New ECO;24;0.064;;;;1800;2;E;;1
+33703482;0.7;A;65;Multifunction ;2222;No Pulsation ;Fan Oven;New ECO;24;0.064;12;R;1100;1800;2;E;Ventilation Channel ;1
+33703487;0.66;A+;63.8;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;E;Ventilation Channel ;1
+33703484;0.71;A;65;Cooklight ;2410;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;E;Ventilation Channel ;1
+33703501;0.68;A+;70;Cooklight ;2410;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;F;Ventilation Channel ;1
+33703512;0.74;A;64.5;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;E;Ventilation Channel ;1
+33703707;0.61;A+;70;Cooklight ;1308;ECO;Fan Assisted;New ECO;24;0.064;13;R;1100;1800;2;F;Ventilation Channel ;1
+33703736;0.69;A;70;Multifunction ;2222;Pulsation ;Fan oven;New ECO;24;0.064;12;R;1100;1800;2;F;Ventilation Channel ;1
+33703731;0.78;A;70;Static Fan;2132;No Pulsation ;Fan Assisted;New ECO;24;0.064;;;;1800;2;F;Ventilation Channel ;1
+33702104;0.66;A+;69.5;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;12;T;1050;1600;2;F;Switch Protection ;0
+33703004;0.79;A;66.8;Static Fan;2100;No Pulsation ;Fan Assisted;New ECO;33;0.054;12;T;1050;1600;2;F;Ventilation Channel ;1
+33703005;0.67;A+;64.4;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;18;T;1200;1600;2;E;Switch Protection ;0
+33703042;0.74;A+;69.2;Cooklight ;2042;Pulsation ;Multifunction;New ECO;33;0.054;12;T;1050;1600;2;F;Ventilation Channel ;1
+33703042;0.73;A+;69.2;Cooklight ;2042;Pulsation ;Multifunction;New ECO;33;0.054;12;T;1050;1600;2;F;Ventilation Channel ;1
+33703095;0.62;A+;69.3;Cooklight ;1822;ECO;Multifunction;New ECO;33;0.054;12;T;1050;1600;2;F;Ventilation Channel ;1
+33703101;0.76;A;69.3;Static Fan;2100;No Pulsation ;Fan Assisted;New ECO;33;0.054;18;T;1200;1600;2;F;Ventilation Channel ;0
+33703101;0.69;A;69.3;Cooklight ;1822;No Pulsation ;Fan Assisted;New ECO;33;0.054;18;T;1200;1600;2;F;Ventilation Channel ;0
+33703006;0.73;A+;69.3;Cooklight ;2042;Pulsation ;Multifunction;New ECO;24;0.062;18;T;1200;1600;2;F;Ventilation Channel ;1
+33703006;0.71;A+;69.3;Cooklight ;2042;Pulsation ;Multifunction;New ECO;24;0.062;18;T;1200;1600;2;F;Ventilation Channel ;1
+33703008;0.7;A+;64.4;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.062;18;T;1200;1600;2;E;Ventilation Channel ;1
+33703008;0.68;A+;64.4;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.062;18;T;1200;1600;2;E;Ventilation Channel ;1
+33703131;0.76;A;63.8;Cooklight ;1822;Pulsation ;Fan Assisted;New ECO;33;0.054;12;T;1050;1600;2;E;Ventilation Channel ;1
+33703134;0.64;A+;69.3;Cooklight ;2042;ECO;Multifunction;New ECO;24;0.062;12;T;1050;1600;2;F;Ventilation Channel ;0
+33703141;0.7;A+;63.7;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.062;12;T;1050;1600;2;E;Ventilation Channel ;1
+33703145;0.67;A+;64.5;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;12;T;1050;1600;2;E;Ventilation Channel ;0
+33703147;0.63;A+;68.5;Cooklight ;2042;ECO;Fan Assisted;New ECO;24;0.064;12;T;1050;1800;2;F;Ventilation Channel ;0
+33703059;0.78;A;69;Static Fan;2132;Pulsation ;Multifunction;New ECO;24;0.064;18;T;1200;1600;2;F;Switch Protection ;0
+33703259;0.77;A;69.3;Multifunction ;2042;No Pulsation ;Fan Oven;New ECO;18;0.07;12;T;1050;1600;2;F;Ventilation Channel ;1
+33703260;0.74;A;68.3;Multifunction ;2042;No Pulsation ;Fan Oven;New ECO;18;0.07;12;T;1050;1600;2;F;Ventilation Channel ;1
+33703262;0.74;A;69.5;Multifunction ;1822;No Pulsation ;Multifunction;New ECO;33;0.054;12;T;1050;1600;2;F;Ventilation Channel ;1
+33703264;0.71;A+;69.5;Cooklight ;2042;Pulsation ;Multifunction;New ECO;24;0.064;12;T;1050;1600;2;F;Ventilation Channel ;1
+33703314;0.6;A+;69.2;Cooklight ;2042;ECO;Multifunction;New ECO;24;0.062;12;T;1050;1600;2;F;Ventilation Channel ;0
+33703334;0.73;A+;68.8;Cooklight ;1822;ECO;Multifunction;New ECO;33;0.054;12;T;1050;1800;2;F;Ventilation Channel ;1
+33702112;0.68;A+;63.2;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;12;T;1050;1600;2;E;Ventilation Channel ;1
+33702196;0.81;A;64.8;Static Fan;2132;Pulsation ;Fan Assisted;New ECO;33;0.054;18;T;1200;1600;2;E;Switch Protection ;0
+33703270;0.8;A;67.2;Multifunction ;1822;No Pulsation ;Multifunction;New ECO;33;0.054;12;T;1050;1600;2;F;Ventilation Channel ;1
+33703005;0.67;A+;64.4;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;18;T;1200;1600;2;E;Switch Protection ;0
+33702104;0.66;A+;69.5;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;12;T;1050;1600;2;F;Switch Protection ;0
+33703101;0.76;A;69.3;Static Fan;2100;No Pulsation ;Fan Assisted;New ECO;33;0.054;18;T;1200;1600;2;F;Ventilation Channel ;0
+33703101;0.69;A;69.3;Cooklight ;1822;No Pulsation ;Fan Assisted;New ECO;33;0.054;18;T;1200;1600;2;F;Ventilation Channel ;0
+33703095;0.62;A+;69.3;Cooklight ;1822;ECO;Multifunction;New ECO;33;0.054;12;T;1050;1600;2;F;Ventilation Channel ;1
+33702186;0.81;A;64.5;Static Fan;2132;Pulsation ;Fan Assisted;New ECO;33;0.054;18;T;1200;1800;2;E;Switch Protection ;0
+33702186;0.82;A;64.5;Static Fan;2132;Pulsation ;Fan Assisted;New ECO;33;0.054;18;T;1200;1800;2;E;Switch Protection ;0
+33702196;0.75;A;64.8;Static Fan;2132;Pulsation ;Fan Assisted;New ECO;33;0.054;18;T;1200;1600;2;E;Switch Protection ;0
+33702196;0.75;A;64.8;Static Fan;2132;Pulsation ;Fan Assisted;New ECO;33;0.054;18;T;1200;1600;2;E;Switch Protection ;0
+33702196;0.81;A;64.8;Static Fan;2132;Pulsation ;Fan Assisted;New ECO;33;0.054;18;T;1200;1600;2;E;Switch Protection ;0
+33702196;0.82;A;64.8;Static Fan;2132;Pulsation ;Fan Assisted;New ECO;33;0.054;18;T;1200;1600;2;E;Switch Protection ;0
+33702196;0.84;A;64.8;Static Fan;2132;Pulsation ;Fan Assisted;New ECO;33;0.054;18;T;1200;1600;2;E;Switch Protection ;0
+33702196;0.86;A;64.8;Static Fan;2132;Pulsation ;Fan Assisted;New ECO;33;0.054;18;T;1200;1600;2;E;Switch Protection ;0
+33702196;0.77;A;64.8;Static Fan;2132;Pulsation ;Fan Assisted;New ECO;33;0.054;18;T;1200;1600;2;E;Switch Protection ;0
+33702196;0.77;A;64.8;Static Fan;2132;Pulsation ;Fan Assisted;New ECO;33;0.054;18;T;1200;1600;2;E;Switch Protection ;0
+33702414;0.8;A+;63.5;Static Fan;2132;ECO;Fan Assisted;New ECO;24;0.064;12;T;1050;1800;2;E;Ventilation Channel ;0
+33702414;0.81;A+;63.5;Static Fan;2132;ECO;Fan Assisted;New ECO;24;0.064;12;T;1050;1800;2;E;Ventilation Channel ;0
+33703134;0.63;A+;69.3;Cooklight ;2042;ECO;Multifunction;New ECO;24;0.062;12;T;1050;1600;2;F;Ventilation Channel ;0
+33702414;0.82;A+;63.5;Static Fan;2132;ECO;Fan Assisted;New ECO;24;0.064;12;T;1050;1800;2;E;Ventilation Channel ;0
+33702253;0.74;A;63.5;Multifunction ;2222;Pulsation ;Fan oven;New ECO;24;0.064;12;T;1050;1600;2;E;Ventilation Channel ;1
+33702253;0.73;A;63.5;Multifunction ;2222;Pulsation ;Fan oven;New ECO;24;0.064;12;T;1050;1600;2;E;Ventilation Channel ;1
+33702096;0.65;A+;64.6;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;12;T;1050;1800;2;E;Switch Protection ;0
+33702112;0.68;A+;63.2;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;12;T;1050;1600;2;E;Ventilation Channel ;1
+33703131;0.76;A;63.8;Cooklight ;1822;Pulsation ;Fan Assisted;New ECO;33;0.054;12;T;1050;1600;2;E;Ventilation Channel ;1
+33703131;0.82;A;63.8;Static Fan;2100;Pulsation ;Fan Assisted;New ECO;33;0.054;12;T;1050;1600;2;E;Ventilation Channel ;1
+33703145;0.67;A+;64.5;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;12;T;1050;1600;2;E;Ventilation Channel ;0
+33703134;0.64;A+;69.3;Cooklight ;2042;ECO;Multifunction;New ECO;24;0.062;12;T;1050;1600;2;F;Ventilation Channel ;0
+33703141;0.7;A+;63.7;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.062;12;T;1050;1600;2;E;Ventilation Channel ;1
+33703141;0.7;A+;63.7;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.062;12;T;1050;1600;2;E;Ventilation Channel ;1
+33703147;0.72;A+;68.5;Cooklight ;2042;ECO;Fan Assisted;New ECO;24;0.064;12;T;1050;1800;2;F;Ventilation Channel ;0
+33703147;0.63;A+;68.5;Cooklight ;2042;ECO;Fan Assisted;New ECO;24;0.064;12;T;1050;1800;2;F;Ventilation Channel ;0
+33703262;0.81;A;69.5;Multifunction ;1822;No Pulsation ;Multifunction;New ECO;33;0.054;12;T;1050;1600;2;F;Ventilation Channel ;1
+33703259;0.77;A;69.3;Multifunction ;2042;No Pulsation ;Fan Oven;New ECO;18;0.07;12;T;1050;1600;2;F;Ventilation Channel ;1
+33703262;0.74;A;69.5;Multifunction ;1822;No Pulsation ;Multifunction;New ECO;33;0.054;12;T;1050;1600;2;F;Ventilation Channel ;1
+33703060;0.74;A+;69.1;Multifunction ;2222;Pulsation ;Multifunction;New ECO;33;0.054;12;T;1050;1600;3;F;Ventilation Channel ;1
+33702196;0.81;A;64.8;Static Fan;2132;Pulsation ;Fan Assisted;New ECO;33;0.054;18;T;1200;1600;2;E;Switch Protection ;0
+33703264;0.74;A+;69.5;Cooklight ;2042;Pulsation ;Multifunction;New ECO;24;0.064;12;T;1050;1600;2;F;Ventilation Channel ;1
+33703264;0.74;A+;69.5;Cooklight ;2042;Pulsation ;Multifunction;New ECO;24;0.064;12;T;1050;1600;2;F;Ventilation Channel ;1
+33703253;0.75;A;68.9;Multifunction ;1822;No Pulsation ;Multifunction;New ECO;33;0.054;12;T;1050;1600;2;F;Ventilation Channel ;1
+33703253;0.75;A;68.9;Multifunction ;1822;No Pulsation ;Multifunction;New ECO;33;0.054;12;T;1050;1600;2;F;Ventilation Channel ;1
+33703270;0.8;A;67.2;Multifunction ;1822;No Pulsation ;Multifunction;New ECO;33;0.054;12;T;1050;1600;2;F;Ventilation Channel ;1
+33703264;0.72;A+;69.5;Cooklight ;2042;Pulsation ;Multifunction;New ECO;24;0.064;12;T;1050;1600;2;F;Ventilation Channel ;1
+33703474;0.67;A;63.7;Cooklight ;2410;Pulsation ;Fan Oven;New ECO;24;0.064;12;R;1100;1800;2;E;Ventilation Channel ;1
+33702944;0.65;A+;66.1;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;18;T;1200;1600;2;F;Switch Protection ;0
+33702944;0.68;A+;66.1;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;18;T;1200;1600;2;F;Switch Protection ;0
+33703487;0.64;A+;63.8;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;E;Ventilation Channel ;1
+33703585;0.63;A;63.8;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;13;R;1100;1800;2;E;Ventilation Channel ;1
+33703487;0.65;A+;63.8;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;E;Ventilation Channel ;1
+33703512;0.65;A;64.5;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;E;Ventilation Channel ;1
+33703477;0.66;A;64.5;Cooklight ;1032;No Pulsation ;Fan Assisted;New ECO;24;0.064;;;;1800;2;E;;1
+33703477;0.63;A;64.5;Cooklight ;1032;No Pulsation ;Fan Assisted;New ECO;24;0.064;;;;1800;2;E;;1
+33702084;0.69;A+;63.7;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;12;T;1050;1600;2;E;Ventilation Channel ;1
+33703472;0.7;A+;69.4;Cooklight ;2410;Pulsation ;Multifunction;New ECO;33;0.064;12;R;1100;1800;2;F;Ventilation Channel ;1
+33702277;0.57;A+;68.6;Cooklight ;2042;ECO;Multifunction;New ECO;24;0.064;12;T;1050;1800;2;F;Ventilation Channel ;0
+33703173;0.65;A+;64.2;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;12;T;1050;1600;2;E;Ventilation Channel ;0
+33702105;0.67;A+;68.9;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;12;T;1050;1600;2;F;Ventilation Channel ;1
+33703162;0.65;A;69.1;Cooklight ;2042;Pulsation ;Fan oven;New ECO;24;0.064;12;T;1050;1600;2;F;Ventilation Channel ;1
+33703598;0.63;A+;68.9;Cooklight ;2410;Pulsation ;Multifunction;New ECO;33;0.064;12;R;1100;1800;2;F;Ventilation Channel ;1
+33702940;0.67;A+;63.7;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;18;T;1200;1600;2;F;Switch Protection ;0
+33703058;0.68;A+;68.9;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;18;T;1200;1600;2;F;Switch Protection ;0
+33703058;0.71;A+;68.9;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;18;T;1200;1600;2;F;Switch Protection ;0
+33703512;0.64;A;64.5;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;E;Ventilation Channel ;1
+33703512;0.67;A;64.5;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;E;Ventilation Channel ;1
+33703151;0.7;A+;68.9;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;12;T;1050;1600;2;F;Ventilation Channel ;0
+33703151;0.68;A+;68.9;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;12;T;1050;1600;2;F;Ventilation Channel ;0
+33703534;0.63;A;66.1;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;E;Ventilation Channel ;1
+33703534;0.62;A;66.1;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;E;Ventilation Channel ;1
+33703599;0.7;A+;69.1;Cooklight ;2410;Pulsation ;Multifunction;New ECO;33;0.064;12;R;1100;1800;2;F;Ventilation Channel ;1
+33703599;0.64;A+;69.1;Cooklight ;2410;Pulsation ;Multifunction;New ECO;33;0.064;12;R;1100;1800;2;F;Ventilation Channel ;1
+33702944;0.67;A+;66.1;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;18;T;1200;1600;2;F;Switch Protection ;0
+33703628;0.68;A+;66.1;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;13;R;1100;1800;2;F;Ventilation Channel ;1
+33703628;0.68;A+;66.1;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;13;R;1100;1800;2;F;Ventilation Channel ;1
+33703269;0.72;A+;63.7;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;18;T;1200;1600;2;F;Switch Protection ;0
+33703671;0.65;A;69.1;Cooklight ;2410;No Pulsation ;Fan Oven;New ECO;33;0.064;13;R;1100;1600;2;F;Ventilation Channel ;1
+33703671;0.68;A;69.1;Cooklight ;2410;No Pulsation ;Fan Oven;New ECO;33;0.064;13;R;1100;1600;2;F;Ventilation Channel ;1
+33703297;0.64;A+;64.5;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;12;T;1050;1800;2;E;Switch Protection ;0
+33703297;0.66;A+;64.5;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;12;T;1050;1800;2;E;Switch Protection ;0
+33703434;0.69;A;64.5;Cooklight ;1032;No Pulsation ;Fan Assisted;New ECO;18;0.063;;;;1800;2;E;;1
+33703434;0.71;A;64.5;Cooklight ;1032;No Pulsation ;Fan Assisted;New ECO;18;0.063;;;;1800;2;E;;1
+33703433;0.67;A+;63.7;Cooklight ;2410;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;E;Ventilation Channel ;1
+33703433;0.69;A+;63.7;Cooklight ;2410;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;E;Ventilation Channel ;1
+33703671;0.69;A;69.1;Cooklight ;2410;No Pulsation ;Fan Oven;New ECO;33;0.064;13;R;1100;1600;2;F;Ventilation Channel ;1
+33703671;0.66;A;69.1;Cooklight ;2410;No Pulsation ;Fan Oven;New ECO;33;0.064;13;R;1100;1600;2;F;Ventilation Channel ;1
+33703329;0.65;A;64.4;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;33;0.054;18;T;1200;1600;2;E;Switch Protection ;0
+33703329;0.69;A;64.4;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;33;0.054;18;T;1200;1600;2;E;Switch Protection ;0
+33703510;0.63;A+;64.4;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;E;Ventilation Channel ;1
+33703510;0.68;A+;64.4;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;E;Ventilation Channel ;1
+33703433;0.67;A+;63.7;Cooklight ;2410;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;E;Ventilation Channel ;1
+33703433;0.68;A+;63.7;Cooklight ;2410;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;E;Ventilation Channel ;1
+33703220;0.62;A+;68.9;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.062;12;T;1050;1600;2;E;Ventilation Channel ;0
+33703433;0.67;A+;63.7;Cooklight ;2410;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;E;Ventilation Channel ;1
+33703433;0.67;A+;63.7;Cooklight ;2410;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;E;Ventilation Channel ;1
+33703544;0.69;A+;69.4;Cooklight ;2410;Pulsation ;Multifunction;New ECO;33;0.064;13;R;1100;1800;2;F;Ventilation Channel ;1
+33703274;0.71;A+;64.1;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;12;T;1050;1600;2;E;Ventilation Channel ;1
+33703434;0.88;A;64.5;Static Fan;2132;No Pulsation ;Fan Assisted;New ECO;18;0.063;;;;1800;2;E;;1
+33703434;0.86;A;64.5;Static Fan;2132;No Pulsation ;Fan Assisted;New ECO;18;0.063;;;;1800;2;E;;1
+33703434;0.89;A;64.5;Static Fan;2132;No Pulsation ;Fan Assisted;New ECO;18;0.063;;;;1800;2;E;;1
+33703434;0.87;A;64.5;Static Fan;2132;No Pulsation ;Fan Assisted;New ECO;18;0.063;;;;1800;2;E;;1
+33703434;0.85;A;64.5;Static Fan;2132;No Pulsation ;Fan Assisted;New ECO;18;0.063;;;;1800;2;E;;1
+33703434;0.83;A;64.5;Static Fan;2132;No Pulsation ;Fan Assisted;New ECO;18;0.063;;;;1800;2;E;;1
+33703526;0.69;A+;66.2;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;12;T;1050;1800;2;F;Switch Protection ;0
+33703526;0.66;A+;66.2;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;12;T;1050;1800;2;F;Switch Protection ;0
+33703361;0.71;A+;66.2;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;12;T;1050;1600;2;E;Ventilation Channel ;0
+33703676;0.56;A+;69.4;Cooklight ;2410;Pulsation ;Multifunction;New ECO;33;0.064;13;R;1100;1600;2;F;Ventilation Channel ;1
+33703361;0.68;A+;66.2;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;12;T;1050;1600;2;E;Ventilation Channel ;0
+33702128;0.79;A;64.4;Static Fan;2132;No Pulsation ;Fan Assisted;New ECO;18;0.092;;;;1600;2;E;Switch Protection ;0
+33703417;0.68;A+;69.7;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;12;T;1050;1800;2;F;Ventilation Channel ;0
+33702128;0.76;A;64.4;Static Fan;2132;No Pulsation ;Fan Assisted;New ECO;18;0.092;;;;1600;2;E;Switch Protection ;0
+33702128;0.74;A;64.4;Static Fan;2132;No Pulsation ;Fan Assisted;New ECO;18;0.092;;;;1600;2;E;Switch Protection ;0
+33703059;0.73;A;69;Static Fan;2132;Pulsation ;Multifunction;New ECO;24;0.064;18;T;1200;1600;2;F;Switch Protection ;0
+33703059;0.83;A;69;Static Fan;2132;Pulsation ;Multifunction;New ECO;24;0.064;18;T;1200;1600;2;F;Switch Protection ;0
+33703059;0.76;A;69;Static Fan;2132;Pulsation ;Multifunction;New ECO;24;0.064;18;T;1200;1600;2;F;Switch Protection ;0
+33703059;0.73;A;69;Static Fan;2132;Pulsation ;Multifunction;New ECO;24;0.064;18;T;1200;1600;2;F;Switch Protection ;0
+33703580;0.71;A+;69;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;F;Ventilation Channel ;1
+33703580;0.73;A+;69;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;F;Ventilation Channel ;1
+33703580;0.67;A+;69;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;F;Ventilation Channel ;1
+33703060;0.66;A+;69.1;Multifunction ;2222;Pulsation ;Multifunction;New ECO;33;0.054;12;T;1050;1600;3;F;Ventilation Channel ;1
+33703183;0.73;A;64.7;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;12;T;1050;1600;2;E;Ventilation Channel ;0
+33703183;0.66;A;64.7;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;12;T;1050;1600;2;E;Ventilation Channel ;0
+33703183;0.62;A;64.7;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;12;T;1050;1600;2;E;Ventilation Channel ;0
+33703162;0.74;A;69.1;Cooklight ;2042;Pulsation ;Fan oven;New ECO;24;0.064;12;T;1050;1600;2;F;Ventilation Channel ;1
+33703204;0.69;A;64.7;Multifunction ;2042;No Pulsation ;Fan Oven;New ECO;18;0.07;12;T;1050;1600;2;E;Ventilation Channel ;1
+33703162;0.67;A;69.1;Cooklight ;2042;Pulsation ;Fan oven;New ECO;24;0.064;12;T;1050;1600;2;F;Ventilation Channel ;1
+33703204;0.67;A;64.7;Multifunction ;2042;No Pulsation ;Fan Oven;New ECO;18;0.07;12;T;1050;1600;2;E;Ventilation Channel ;1
+33703162;0.74;A;69.1;Cooklight ;2042;Pulsation ;Fan oven;New ECO;24;0.064;12;T;1050;1600;2;F;Ventilation Channel ;1
+33703671;0.69;A;69.1;Cooklight ;2410;No Pulsation ;Fan Oven;New ECO;33;0.064;13;R;1100;1600;2;F;Ventilation Channel ;1
+33703433;0.67;A+;63.7;Cooklight ;2410;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;E;Ventilation Channel ;1
+33703433;0.67;A+;63.7;Cooklight ;2410;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;E;Ventilation Channel ;1
+33703599;0.71;A+;69.1;Cooklight ;2410;Pulsation ;Multifunction;New ECO;33;0.064;12;R;1100;1800;2;F;Ventilation Channel ;1
+33703599;0.7;A+;69.1;Cooklight ;2410;Pulsation ;Multifunction;New ECO;33;0.064;12;R;1100;1800;2;F;Ventilation Channel ;1
+33703274;0.71;A+;64.1;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;12;T;1050;1600;2;E;Ventilation Channel ;1
+33703544;0.69;A+;69.4;Cooklight ;2410;Pulsation ;Multifunction;New ECO;33;0.064;13;R;1100;1800;2;F;Ventilation Channel ;1
+33703472;0.63;A+;69.4;Cooklight ;2410;Pulsation ;Multifunction;New ECO;33;0.064;12;R;1100;1800;2;F;Ventilation Channel ;1
+33702128;0.68;A;64.4;Static Fan;2132;No Pulsation ;Fan Assisted;New ECO;18;0.092;;;;1600;2;E;Switch Protection ;0
+33703283;0.67;A+;64.4;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;18;T;1200;1800;2;E;Switch Protection ;0
+33703283;0.66;A+;64.4;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;18;T;1200;1800;2;E;Switch Protection ;0
+33702128;0.68;A;64.4;Static Fan;2132;No Pulsation ;Fan Assisted;New ECO;18;0.092;;;;1600;2;E;Switch Protection ;0
+33703539;0.68;A+;69.1;Cooklight ;2410;Pulsation ;Multifunction;New ECO;33;0.064;12;R;1100;1600;2;F;Ventilation Channel ;1
+33703539;0.77;A+;69.1;Cooklight ;2410;Pulsation ;Multifunction;New ECO;33;0.064;12;R;1100;1600;2;F;Ventilation Channel ;1
+33703487;0.64;A+;63.8;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;E;Ventilation Channel ;1
+33703487;0.66;A+;63.8;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;E;Ventilation Channel ;1
+33703490;0.69;A+;63.8;Cooklight ;2410;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;E;Ventilation Channel ;0
+33703591;0.64;A+;69.4;Cooklight ;2410;ECO;Multifunction;New ECO;33;0.064;12;R;1100;1600;2;F;Ventilation Channel ;1
+33703581;0.67;A+;69.4;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;F;Ventilation Channel ;1
+33702096;0.66;A+;64.6;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;12;T;1050;1800;2;E;Switch Protection ;0
+33703613;0.66;A+;63.8;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;E;Ventilation Channel ;1
+33703613;0.67;A+;63.8;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;E;Ventilation Channel ;1
+33703613;0.6;A+;63.8;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;E;Ventilation Channel ;1
+33703476;0.71;A;63.8;Static Fan;2132;No Pulsation ;Fan Assisted;New ECO;24;0.064;;;;1800;2;E;;1
+33703476;0.68;A;63.8;Static Fan;2132;No Pulsation ;Fan Assisted;New ECO;24;0.064;;;;1800;2;E;;1
+33703283;0.77;A+;64.4;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;18;T;1200;1800;2;E;Switch Protection ;0
+33703283;0.73;A+;64.4;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;18;T;1200;1800;2;E;Switch Protection ;0
+33702096;0.66;A+;64.6;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;12;T;1050;1800;2;E;Switch Protection ;0
+33702096;0.58;A+;64.6;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;12;T;1050;1800;2;E;Switch Protection ;0
+33703511;0.66;A+;66.2;Cooklight ;2410;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;E;Ventilation Channel ;1
+33703511;0.68;A+;66.2;Cooklight ;2410;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;E;Ventilation Channel ;1
+33703511;0.63;A+;66.2;Cooklight ;2410;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;E;Ventilation Channel ;1
+33702157;0.81;A;66.2;Multifunction ;2222;Pulsation ;Multifunction;New ECO;24;0.064;18;T;1200;1800;2;F;Switch Protection ;0
+33702157;0.75;A;66.2;Multifunction ;2222;Pulsation ;Multifunction;New ECO;24;0.064;18;T;1200;1800;2;F;Switch Protection ;0
+33703581;0.7;A+;69.4;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;F;Ventilation Channel ;1
+33703613;0.62;A+;63.8;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;E;Ventilation Channel ;1
+33702127;0.73;A;66.2;Static Fan;2132;No Pulsation ;Fan Assisted;New ECO;18;0.092;;;;1600;2;E;Switch Protection ;0
+33703433;0.62;A+;63.7;Cooklight ;2410;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;E;Ventilation Channel ;1
+33703433;0.62;A+;63.7;Cooklight ;2410;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;E;Ventilation Channel ;1
+33703433;0.64;A+;63.7;Cooklight ;2410;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;E;Ventilation Channel ;1
+33703147;0.61;A+;68.5;Cooklight ;2042;ECO;Fan Assisted;New ECO;24;0.064;12;T;1050;1800;2;F;Ventilation Channel ;0
+33703147;0.59;A+;68.5;Cooklight ;2042;ECO;Fan Assisted;New ECO;24;0.064;12;T;1050;1800;2;F;Ventilation Channel ;0
+33702928;0.7;A;66.2;Multifunction ;2222;Pulsation ;Fan oven;New ECO;24;0.064;12;T;1050;1600;2;E;Ventilation Channel ;1
+33702928;0.89;A;66.2;Multifunction ;2222;Pulsation ;Fan oven;New ECO;24;0.064;12;T;1050;1600;2;E;Ventilation Channel ;1
+33702127;0.76;A;66.2;Static Fan;2132;No Pulsation ;Fan Assisted;New ECO;18;0.092;;;;1600;2;E;Switch Protection ;0
+33702127;0.77;A;66.2;Static Fan;2132;No Pulsation ;Fan Assisted;New ECO;18;0.092;;;;1600;2;E;Switch Protection ;0
+33702234;0.76;A;64.6;Static Fan;2132;Pulsation ;Fan Assisted;New ECO;33;0.054;12;T;1050;1600;2;E;Switch Protection ;0
+33702234;0.78;A;64.6;Static Fan;2132;Pulsation ;Fan Assisted;New ECO;33;0.054;12;T;1050;1600;2;E;Switch Protection ;0
+33703477;0.76;A;64.5;Static Fan;2132;No Pulsation ;Fan Assisted;New ECO;24;0.064;;;;1800;2;E;;1
+33703613;0.67;A+;63.8;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;E;Ventilation Channel ;1
+33703613;0.66;A+;63.8;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;E;Ventilation Channel ;1
+33703585;0.67;A;63.8;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;13;R;1100;1800;2;E;Ventilation Channel ;1
+33703585;0.65;A;63.8;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;13;R;1100;1800;2;E;Ventilation Channel ;1
+33703585;0.62;A;63.8;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;13;R;1100;1800;2;E;Ventilation Channel ;1
+33703613;0.78;A+;63.8;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;E;Ventilation Channel ;1
+33703477;0.79;A;64.5;Static Fan;2132;No Pulsation ;Fan Assisted;New ECO;24;0.064;;;;1800;2;E;;1
+33703585;0.65;A;63.8;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;13;R;1100;1800;2;E;Ventilation Channel ;1
+33703585;0.66;A;63.8;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;13;R;1100;1800;2;E;Ventilation Channel ;1
+33703224;0.78;A;63.8;Static Fan;2132;Pulsation ;Fan Assisted;New ECO;33;0.054;12;T;1050;1600;2;E;Switch Protection ;0
+33703224;0.81;A;63.8;Static Fan;2132;Pulsation ;Fan Assisted;New ECO;33;0.054;12;T;1050;1600;2;E;Switch Protection ;0
+33703224;0.79;A;63.8;Static Fan;2132;Pulsation ;Fan Assisted;New ECO;33;0.054;12;T;1050;1600;2;E;Switch Protection ;0
+33703224;0.73;A;63.8;Static Fan;2132;Pulsation ;Fan Assisted;New ECO;33;0.054;12;T;1050;1600;2;E;Switch Protection ;0
+33703613;0.7;A+;63.8;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;E;Ventilation Channel ;1
+33703613;0.71;A+;63.8;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;E;Ventilation Channel ;1
+33703585;0.62;A;63.8;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;13;R;1100;1800;2;E;Ventilation Channel ;1
+33703434;0.83;A;64.5;Static Fan;2132;No Pulsation ;Fan Assisted;New ECO;18;0.063;;;;1800;2;E;;1
+33703599;0.68;A+;69.1;Cooklight ;2410;Pulsation ;Multifunction;New ECO;33;0.064;12;R;1100;1800;2;F;Ventilation Channel ;1
+33703599;0.63;A+;69.1;Cooklight ;2410;Pulsation ;Multifunction;New ECO;33;0.064;12;R;1100;1800;2;F;Ventilation Channel ;1
+33703599;0.64;A+;69.1;Cooklight ;2410;Pulsation ;Multifunction;New ECO;33;0.064;12;R;1100;1800;2;F;Ventilation Channel ;1
+33703203;0.64;A+;64.7;Cooklight ;2042;Pulsation ;Multifunction;New ECO;24;0.064;18;T;1200;1600;2;F;Ventilation Channel ;1
+33703260;0.71;A;68.3;Multifunction ;2042;No Pulsation ;Fan Oven;New ECO;18;0.07;12;T;1050;1600;2;F;Ventilation Channel ;1
+33703411;0.71;A+;69.1;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;12;T;1050;1600;2;F;Ventilation Channel ;1
+33703224;0.76;A;63.8;Static Fan;2132;Pulsation ;Fan Assisted;New ECO;33;0.054;12;T;1050;1600;2;E;Switch Protection ;0
+33703224;0.75;A;63.8;Static Fan;2132;Pulsation ;Fan Assisted;New ECO;33;0.054;12;T;1050;1600;2;E;Switch Protection ;0
+33703224;0.74;A;63.8;Static Fan;2132;Pulsation ;Fan Assisted;New ECO;33;0.054;12;T;1050;1600;2;E;Switch Protection ;0
+33703225;0.71;A;64.5;Static Fan;2132;Pulsation ;Fan Assisted;New ECO;33;0.054;12;T;1050;1800;2;E;Switch Protection ;0
+33703225;0.74;A;64.5;Static Fan;2132;Pulsation ;Fan Assisted;New ECO;33;0.054;12;T;1050;1800;2;E;Switch Protection ;0
+33703539;0.67;A+;69.1;Cooklight ;2410;Pulsation ;Multifunction;New ECO;33;0.064;12;R;1100;1600;2;F;Ventilation Channel ;1
+33703539;0.64;A+;69.1;Cooklight ;2410;Pulsation ;Multifunction;New ECO;33;0.064;12;R;1100;1600;2;F;Ventilation Channel ;1
+33703671;0.7;A;69.1;Multifunction ;2042;No Pulsation ;Fan Oven;New ECO;33;0.064;13;R;1100;1600;2;F;Ventilation Channel ;1
+33703671;0.68;A;69.1;Multifunction ;2042;No Pulsation ;Fan Oven;New ECO;33;0.064;13;R;1100;1600;2;F;Ventilation Channel ;1
+33702183;0.73;A;64.7;Static Fan;2132;Pulsation ;Fan Assisted;New ECO;33;0.054;12;T;1050;1800;2;E;Switch Protection ;0
+33702183;0.76;A;64.7;Static Fan;2132;Pulsation ;Fan Assisted;New ECO;33;0.054;12;T;1050;1800;2;E;Switch Protection ;0
+33702183;0.72;A;64.7;Static Fan;2132;Pulsation ;Fan Assisted;New ECO;33;0.054;12;T;1050;1800;2;E;Switch Protection ;0
+33703671;0.71;A;69.1;Multifunction ;2042;No Pulsation ;Fan Oven;New ECO;33;0.064;13;R;1100;1600;2;F;Ventilation Channel ;1
+33703671;0.72;A;69.1;Multifunction ;2042;No Pulsation ;Fan Oven;New ECO;33;0.064;13;R;1100;1600;2;F;Ventilation Channel ;1
+33703671;0.76;A;69.1;Multifunction ;2042;No Pulsation ;Fan Oven;New ECO;33;0.064;13;R;1100;1600;2;F;Ventilation Channel ;1
+33703671;0.71;A;69.1;Multifunction ;2042;No Pulsation ;Fan Oven;New ECO;33;0.064;13;R;1100;1600;2;F;Ventilation Channel ;1
+33703260;0.74;A;68.3;Multifunction ;2042;No Pulsation ;Fan Oven;New ECO;18;0.07;12;T;1050;1600;2;F;Ventilation Channel ;1
+33703260;0.76;A;68.3;Multifunction ;2042;No Pulsation ;Fan Oven;New ECO;18;0.07;12;T;1050;1600;2;F;Ventilation Channel ;1
+33703361;0.67;A+;66.2;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;12;T;1050;1600;2;E;Ventilation Channel ;0
+33703361;0.68;A+;66.2;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;12;T;1050;1600;2;E;Ventilation Channel ;0
+33703361;0.65;A+;66.2;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;12;T;1050;1600;2;E;Ventilation Channel ;0
+33703434;0.79;A;64.5;Static Fan;2132;No Pulsation ;Fan Assisted;New ECO;18;0.063;;;;1800;2;E;;1
+33703434;0.75;A;64.5;Static Fan;2132;No Pulsation ;Fan Assisted;New ECO;18;0.063;;;;1800;2;E;;1
+33703434;0.77;A;64.5;Static Fan;2132;No Pulsation ;Fan Assisted;New ECO;18;0.063;;;;1800;2;E;;1
+33703600;0.68;A+;69.1;Cooklight ;2410;Pulsation ;Multifunction;New ECO;33;0.064;12;R;1100;1800;2;F;Ventilation Channel ;1
+33703600;0.7;A+;69.1;Cooklight ;2410;Pulsation ;Multifunction;New ECO;33;0.064;12;R;1100;1800;2;F;Ventilation Channel ;1
+33703600;0.67;A+;69.1;Cooklight ;2410;Pulsation ;Multifunction;New ECO;33;0.064;12;R;1100;1800;2;F;Ventilation Channel ;1
+33703378;0.63;A+;64.5;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;12;T;1050;1800;2;E;Ventilation Channel ;1
+33703378;0.65;A+;64.5;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;12;T;1050;1800;2;E;Ventilation Channel ;1
+33703378;0.67;A+;64.5;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;12;T;1050;1800;2;E;Ventilation Channel ;1
+33703059;0.75;A;69;Cooklight ;2042;Pulsation ;Multifunction;New ECO;24;0.064;18;T;1200;1600;2;F;Switch Protection ;0
+33703059;0.79;A;69;Cooklight ;2042;Pulsation ;Multifunction;New ECO;24;0.064;18;T;1200;1600;2;F;Switch Protection ;0
+33703059;0.78;A;69;Cooklight ;2042;Pulsation ;Multifunction;New ECO;24;0.064;18;T;1200;1600;2;F;Switch Protection ;0
+33703224;0.81;A;63.8;Static Fan;2132;Pulsation ;Fan Assisted;New ECO;33;0.054;12;T;1050;1600;2;E;Switch Protection ;0
+33703224;0.8;A;63.8;Static Fan;2132;Pulsation ;Fan Assisted;New ECO;33;0.054;12;T;1050;1600;2;E;Switch Protection ;0
+33703224;0.75;A;63.8;Static Fan;2132;Pulsation ;Fan Assisted;New ECO;33;0.054;12;T;1050;1600;2;E;Switch Protection ;0
+33703224;0.72;A;63.8;Static Fan;2132;Pulsation ;Fan Assisted;New ECO;33;0.054;12;T;1050;1600;2;E;Switch Protection ;0
+33703224;0.72;A;63.8;Static Fan;2132;Pulsation ;Fan Assisted;New ECO;33;0.054;12;T;1050;1600;2;E;Switch Protection ;0
+33703434;0.77;A;64.5;Static Fan;2132;No Pulsation ;Fan Assisted;New ECO;18;0.063;;;;1800;2;E;;1
+33703434;0.69;A;64.5;Static Fan;2132;No Pulsation ;Fan Assisted;New ECO;18;0.063;;;;1800;2;E;;1
+33703434;0.66;A;64.5;Static Fan;2132;No Pulsation ;Fan Assisted;New ECO;18;0.063;;;;1800;2;E;;1
+33703434;0.75;A;64.5;Static Fan;2132;No Pulsation ;Fan Assisted;New ECO;18;0.063;;;;1800;2;E;;1
+33703469;0.78;A+;69;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;F;Ventilation Channel ;1
+33703469;0.78;A+;69;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;F;Ventilation Channel ;1
+33703469;0.87;A+;69;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;F;Ventilation Channel ;1
+33703469;0.77;A+;69;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;F;Ventilation Channel ;1
+33703225;0.73;A;64.5;Static Fan;2132;Pulsation ;Fan Assisted;New ECO;33;0.054;12;T;1050;1800;2;E;Switch Protection ;0
+33703224;0.83;A;63.8;Static Fan;2132;Pulsation ;Fan Assisted;New ECO;33;0.054;12;T;1050;1600;2;E;Switch Protection ;0
+33703469;0.67;A+;69;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;F;Ventilation Channel ;1
+33703469;0.68;A+;69;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;F;Ventilation Channel ;1
+33703224;0.7;A;63.8;Static Fan;2132;Pulsation ;Fan Assisted;New ECO;33;0.054;12;T;1050;1600;2;E;Switch Protection ;0
+33703297;0.7;A+;64.5;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;12;T;1050;1800;2;E;Switch Protection ;0
+33703297;0.7;A+;64.5;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;12;T;1050;1800;2;E;Switch Protection ;0
+33703580;0.67;A+;69;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;F;Ventilation Channel ;1
+33703580;0.62;A+;69;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;F;Ventilation Channel ;1
+33703580;0.64;A+;69;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;F;Ventilation Channel ;1
+33703580;0.65;A+;69;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;F;Ventilation Channel ;1
+33703483;0.65;A+;64.5;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;13;R;1100;1800;2;E;Ventilation Channel ;1
+33703483;0.68;A+;64.5;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;13;R;1100;1800;2;E;Ventilation Channel ;1
+33703431;0.69;A+;64.5;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;E;Ventilation Channel ;1
+33703431;0.65;A+;64.5;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;E;Ventilation Channel ;1
+33703432;0.64;A+;64.5;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;13;R;1100;1800;2;E;Ventilation Channel ;1
+33703432;0.63;A+;64.5;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;13;R;1100;1800;2;E;Ventilation Channel ;1
+33703477;0.65;A;64.5;Cooklight ;1032;No Pulsation ;Fan Assisted;New ECO;24;0.064;;;;1800;2;E;;1
+33703477;0.66;A;64.5;Cooklight ;1032;No Pulsation ;Fan Assisted;New ECO;24;0.064;;;;1800;2;E;;1
+33703499;0.68;A+;64.5;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;E;Ventilation Channel ;1
+33703499;0.66;A+;64.5;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;E;Ventilation Channel ;1
+33703378;0.73;A+;64.5;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;12;T;1050;1800;2;E;Ventilation Channel ;1
+33703378;0.8;A+;64.5;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;12;T;1050;1800;2;E;Ventilation Channel ;1
+33703378;0.68;A+;64.5;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;12;T;1050;1800;2;E;Ventilation Channel ;1
+33703378;0.63;A+;64.5;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;12;T;1050;1800;2;E;Ventilation Channel ;1
+33703224;0.67;A;63.8;Static Fan;2132;Pulsation ;Fan Assisted;New ECO;33;0.054;12;T;1050;1600;2;E;Switch Protection ;0
+33703378;0.65;A+;64.5;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;12;T;1050;1800;2;E;Ventilation Channel ;1
+33703512;0.71;A;64.5;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;E;Ventilation Channel ;1
+33703498;0.69;A+;64.5;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;E;Ventilation Channel ;1
+33703499;0.75;A+;64.5;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;E;Ventilation Channel ;1
+33703498;0.63;A+;64.5;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;E;Ventilation Channel ;1
+33703498;0.77;A+;64.5;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;E;Ventilation Channel ;1
+33703539;0.75;A+;69.1;Cooklight ;2410;Pulsation ;Multifunction;New ECO;33;0.064;12;R;1100;1600;2;F;Ventilation Channel ;1
+33702096;0.69;A+;64.6;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;12;T;1050;1800;2;E;Switch Protection ;0
+33702096;0.72;A+;64.6;Cooklight ;2042;Pulsation ;Fan Assisted;New ECO;24;0.064;12;T;1050;1800;2;E;Switch Protection ;0
+33703433;0.63;A+;63.7;Cooklight ;2410;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;E;Ventilation Channel ;1
+33702234;0.77;A;64.6;Static Fan;2132;Pulsation ;Fan Assisted;New ECO;33;0.054;12;T;1050;1600;2;E;Switch Protection ;0
+33703224;0.75;A;63.8;Static Fan;2132;Pulsation ;Fan Assisted;New ECO;33;0.054;12;T;1050;1600;2;E;Switch Protection ;0
+33703499;0.69;A+;64.5;Cooklight ;1308;Pulsation ;Fan Assisted;New ECO;24;0.064;12;R;1100;1800;2;E;Ventilation Channel ;1
+33703297;0.7935;A+;64.5;Cooklight ;2042;;Fan Assisted;New ECO;24;0.064;12;T;1050;1800;2;E;Switch Protection ;0
+33703432;0.6196;A+;64.5;Cooklight ;1308;;Fan Assisted;New ECO;24;0.064;13;R;1100;1800;2;E;Ventilation Channel ;1
+33703432;0.6709;A+;64.5;Cooklight ;1308;;Fan Assisted;New ECO;24;0.064;13;R;1100;1800;2;E;Ventilation Channel ;1
+33703297;0.6987;A+;64.5;Cooklight ;2042;;Fan Assisted;New ECO;24;0.064;12;T;1050;1800;2;E;Switch Protection ;0
+33703981;0.7538;A;64.6;Static Fan;2132;;Fan Assisted;New ECO;18;0.063;;;;1200;2;E;Switch Protection ;0
+33703981;0.8236;A;64.6;Static Fan;2132;;Fan Assisted;New ECO;18;0.063;;;;1200;2;E;Switch Protection ;0
+33703981;0.8733;A;64.6;Static Fan;2132;;Fan Assisted;New ECO;18;0.063;;;;1200;2;E;Switch Protection ;0
+33702127;0.7585;A;66.2;Static Fan;2132;;Fan Assisted;New ECO;18;0.092;;;;1600;2;E;Switch Protection ;0
+33702127;0.7452;A;66.2;Static Fan;2132;;Fan Assisted;New ECO;18;0.092;;;;1600;2;E;Switch Protection ;0
+33703070;0.6759;A+;64.6;Cooklight ;2042;;Fan Assisted;New ECO;24;0.064;18;T;1200;1800;2;E;Switch Protection ;0
+33703070;0.6531;A+;64.6;Cooklight ;2042;;Fan Assisted;New ECO;24;0.064;18;T;1200;1800;2;E;Switch Protection ;0
+33703070;0.6757;A+;64.6;Cooklight ;2042;;Fan Assisted;New ECO;24;0.064;18;T;1200;1800;2;E;Switch Protection ;0
+33703070;0.661;A+;64.6;Cooklight ;2042;;Fan Assisted;New ECO;24;0.064;18;T;1200;1800;2;E;Switch Protection ;0
+33702096;0.641;A+;64.6;Cooklight ;2042;;Fan Assisted;New ECO;24;0.064;12;T;1050;1800;2;E;Switch Protection ;0
